@@ -1,0 +1,27 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "Locally stores info about your workouts's positions. ",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MAPTY"
+  },
+  "keywords": [
+    "leaflet",
+    "map",
+    "geolocation"
+  ],
+  "author": "YA (refactored from Jason's udemy course)",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "regenerator-runtime": "^0.13.7"
+  }
+}
